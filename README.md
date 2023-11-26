@@ -9,5 +9,22 @@
    <p>
        <h3>CERTIFICATIONS : </h3>
    </p>
+   <p>
+ 1.      
 <a href="https://www.udemy.com/certificate/UC-3a100e91-e0b7-45ec-80a0-fd510e4b069d/">100 Days of code: The complete python pro bootcamp for 2023</a>
+<br><br>
+ 2.     
 <a href="https://www.udemy.com/certificate/UC-f0182eb1-856e-4e52-838f-b9a8e4ccb81f/">Artificial Intelligence A-Z 2023: Build 5 AI (incl. ChatGPT</a>
+</p>
+<br>
+<p>
+    <h3>SKILLS : </h3>
+    1.<a href= "https://en.wikipedia.org/wiki/Data_science">Data Science</a>
+    2.<a href= "https://en.wikipedia.org/wiki/Leadership">Leadership</a>
+</p>
+<p>
+    <h3>CONTACT : </h3>
+    <a href="https://www.linkedin.com/in/priyanshu-namdev-17353a2a0/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=50px></img></a>
+    &nbsp;
+    <a href="https://github.com/Kings-clan/Kings-clan/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=40px</img></a>
+</p>
