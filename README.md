@@ -24,4 +24,9 @@
 </p>
 <p>
     <h3>CONTACT : </h3>
-   
+    <a href="https://www.linkedin.com/in/priyanshu-namdev-17353a2a0/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=50px></img></a>
+    &nbsp;
+<a href="https://github.com/Kings-clan/Kings-clan/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=40px</img></a>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" />
+</p>
+    
