@@ -30,6 +30,6 @@
    <br>
    <br>
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=500px/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kings-clan&show_icons=true&locale=en" alt="kings-clan"  width = 400px />
+  
 </p>
     
