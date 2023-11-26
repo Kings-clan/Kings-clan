@@ -22,6 +22,7 @@
     1.<a href= "https://en.wikipedia.org/wiki/Data_science">Data Science</a>
     2.<a href= "https://en.wikipedia.org/wiki/Leadership">Leadership</a>
 </p>
+<p><img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" /></p>
 <p>
     <h3>CONTACT : </h3>
     <a href="https://www.linkedin.com/in/priyanshu-namdev-17353a2a0/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=50px></img></a>
