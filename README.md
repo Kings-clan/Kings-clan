@@ -16,11 +16,13 @@
  2.     
 <a href="https://www.udemy.com/certificate/UC-f0182eb1-856e-4e52-838f-b9a8e4ccb81f/">Artificial Intelligence A-Z 2023: Build 5 AI (incl. ChatGPT</a>
 </p>
-<br>
 <p>
     <h3>SKILLS : </h3>
     1.<a href= "https://en.wikipedia.org/wiki/Data_science">Data Science</a>
     2.<a href= "https://en.wikipedia.org/wiki/Leadership">Leadership</a>
+</p>
+<p>
+   <img src="https://miro.medium.com/v2/resize:fit:1144/1*dBPwuC3Dh2WWFFYTwogTMA.gif" align = "right" width = 640px height=410px> 
 </p>
 <p>
     <h3>CONTACT : </h3>
@@ -29,7 +31,10 @@
     <a href="https://github.com/Kings-clan/Kings-clan/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=40px</img></a>
    <br>
    <br>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=500px/>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=350px/>
+   <br>
+   <br>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kings-clan&show_icons=true&locale=en" alt="kings-clan" width=350px />
   
 </p>
     
