@@ -32,6 +32,8 @@
    <br>
    <br>
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=350px/>
+   <br>
+   <br>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kings-clan&show_icons=true&locale=en" alt="kings-clan" width=350px />
   
 </p>
