@@ -21,9 +21,7 @@
     1.<a href= "https://en.wikipedia.org/wiki/Data_science">Data Science</a>
     2.<a href= "https://en.wikipedia.org/wiki/Leadership">Leadership</a>
 </p>
-<p>
-   <img src="https://miro.medium.com/v2/resize:fit:1144/1*dBPwuC3Dh2WWFFYTwogTMA.gif" align = "right" width = 410px height=390px> 
-</p>
+
 <p>
     <h3>CONTACT : </h3>
     <a href="https://www.linkedin.com/in/priyanshu-namdev-17353a2a0/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=50px></img></a>
