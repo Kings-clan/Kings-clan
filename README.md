@@ -31,10 +31,10 @@
     <a href="https://github.com/Kings-clan/Kings-clan/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=40px</img></a>
    <br>
    <br>
-   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=350px/></p>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kings-clan&" alt="kings-clan" width=350px/>
    <br>
    <br>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kings-clan&show_icons=true&locale=en" alt="kings-clan" width=350px /></p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kings-clan&show_icons=true&locale=en" alt="kings-clan" width=350px />
   
 </p>
     
