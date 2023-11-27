@@ -22,7 +22,7 @@
     2.<a href= "https://en.wikipedia.org/wiki/Leadership">Leadership</a>
 </p>
 <p>
-   <img src="https://miro.medium.com/v2/resize:fit:1144/1*dBPwuC3Dh2WWFFYTwogTMA.gif" align = "right" width = 500px height=410px> 
+   <img src="https://miro.medium.com/v2/resize:fit:1144/1*dBPwuC3Dh2WWFFYTwogTMA.gif" align = "right" width = 450px height=410px> 
 </p>
 <p>
     <h3>CONTACT : </h3>
